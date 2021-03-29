@@ -1,4 +1,4 @@
-# TryHackme - Rootme
+# TryHackme - RootMe
 
 [RootMe Room](https://tryhackme.com/room/rrootme)
 
