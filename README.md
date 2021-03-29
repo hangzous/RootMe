@@ -7,6 +7,7 @@
 1. **Reconhecimento**
 
    I. **Nmap Scan**
+   
       - Portas
       - Serviços/Protocolos
 
