@@ -6,11 +6,11 @@
 
 1. **Reconhecimento**
 
-   1. **Nmap Scan**
+   I. **Nmap Scan**
       - Portas
       - Serviços/Protocolos
 
-   2. **Gobuster**
+  II. **Gobuster**
       1. Diretórios Ocultos
          - /panel/
          - /uploads/
