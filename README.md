@@ -1,6 +1,6 @@
 # TryHackme - Rootme
 
-[title](https://tryhackme.com/room/rrootme)
+[RootMe Room](https://tryhackme.com/room/rrootme)
 
 ### hangzou
 
@@ -19,7 +19,7 @@
 
    1. **PHP**
       - /usr/share/laudanum/php/php-reverse-shell.php
-      - [title](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
+      - [Pentest Monkey PHP Reverse Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
    2. **Blacklist Bypass**
       - .php3
