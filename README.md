@@ -11,7 +11,6 @@
       - Serviços/Protocolos
 
    II. **Gobuster**
-      I. Diretórios Ocultos
          - /panel/
          - /uploads/
 
