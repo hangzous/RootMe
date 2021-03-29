@@ -53,7 +53,7 @@
 
 Writeup Consultado:
  
-[title](https://infosecwriteups.com/tryhackme-rootme-ctf-walkthrough-detailed-a7c521df7339)
+[Infosec Writeup](https://infosecwriteups.com/tryhackme-rootme-ctf-walkthrough-detailed-a7c521df7339)
 
 Observação:
 
