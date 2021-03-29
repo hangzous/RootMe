@@ -11,8 +11,8 @@
       - Serviços/Protocolos
 
    II. **Gobuster**
-         - /panel/
-         - /uploads/
+       - /panel/
+       - /uploads/
 
 2. **Shell Reverso**
 
