@@ -11,6 +11,7 @@
       - Serviços/Protocolos
 
    II. **Gobuster**
+       
        - /panel/
        - /uploads/
 
