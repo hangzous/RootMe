@@ -19,16 +19,19 @@
 2. **Shell Reverso**
 
    I. **PHP**
+   
       - /usr/share/laudanum/php/php-reverse-shell.php
       - [Pentest Monkey PHP Reverse Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
    II. **Blacklist Bypass**
+   
       - .php3
       - .php4
       - .php5
       - .phtml
 
    III. **Netcat**
+   
       - Endereço IP da Rede THM
       - nc -lvnp 4444
  
