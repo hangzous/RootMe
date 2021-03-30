@@ -33,7 +33,7 @@
    III. **Netcat**
    
       - Endereço IP da Rede THM
-      - nc -lvnp 4444
+      - `nc -lvnp 4444`
  
       > Solucionado com ajuda de Writeup
 
